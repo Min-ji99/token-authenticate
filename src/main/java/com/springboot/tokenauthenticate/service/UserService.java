@@ -1,4 +1,4 @@
-package com.springboot.tokenauthenticate.controller.service;
+package com.springboot.tokenauthenticate.service;
 
 import com.springboot.tokenauthenticate.utils.JwtTokenUtil;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,6 +1,6 @@
 package com.springboot.tokenauthenticate.controller;
 
-import com.springboot.tokenauthenticate.controller.service.UserService;
+import com.springboot.tokenauthenticate.service.UserService;
 import com.springboot.tokenauthenticate.domain.dto.UserLoginResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
